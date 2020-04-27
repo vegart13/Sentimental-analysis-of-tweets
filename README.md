@@ -3,7 +3,7 @@ Using tweepy, textblob, numpy and pandas the program analyses the sentimentality
 
 Remember to sign up for the Twitter API here: 
 https://developer.twitter.com/en
-You will first need to create an account, verified with email if you don't have one already. If you do just login in and create new application.
+You will first need to create an account, verified with email if you don't have one already. If you do just login in and create new application. Then retrieve and paste your keys and tokens into the credentials file.
 
 The program is gonna need some external packages. Install these with:
 pip install tweepy textblob numpy pandas matplotlib
